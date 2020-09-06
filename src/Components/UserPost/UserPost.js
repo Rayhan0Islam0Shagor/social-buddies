@@ -21,7 +21,6 @@ const UserPost = (props) => {
                         <h6><Link style={{ textDecoration: "none" }} to={`/user/${id}`}><Button variant="outlined" color="primary">
                             See More
                         </Button></Link></h6>
-
                     </Typography>
                     <br />
                 </Container>

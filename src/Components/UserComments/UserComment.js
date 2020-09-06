@@ -1,7 +1,6 @@
 import React from 'react';
 
 const UserComment = (props) => {
-    console.log(props)
     const { email, name, body } = props.comment
 
     const commentStyle = {
